@@ -7,7 +7,6 @@ $ arc npx deploy
  Region ~ us-west-2
  Profile ~ default
  cwd ~ C:\Users\mikem\Code\arc-hello-world-new
-Sorry, arc npx command not found!
 Profile ~ default
  Version ~ Architect 6.0.13
 cwd ~ C:\Users\mikem\Code\arc-hello-world-new
